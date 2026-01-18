@@ -1,19 +1,24 @@
-📚 RAG-based Knowledge Assistant
-This project implements a Retrieval-Augmented Generation (RAG) pipeline using LangChain, Hugging Face embeddings, and FAISS.
+# 📚 RAG-based Knowledge Assistant
 
-🔑 Features
-Upload PDF documents and ask natural language questions.
-Uses embeddings + vector search to retrieve context.
-Answers generated with LLM + document chunks.
-⚙️ Tech Stack
-LangChain
-Hugging Face (MiniLM embeddings)
-FAISS
-OpenAI API
-Streamlit UI
-🚀 How to Run
+This project implements a **Retrieval-Augmented Generation (RAG) pipeline** using LangChain, Hugging Face embeddings, and FAISS.  
+
+## 🔑 Features
+- Upload PDF documents and ask natural language questions.
+- Uses **embeddings + vector search** to retrieve context.
+- Answers generated with LLM + document chunks.
+
+## ⚙️ Tech Stack
+- LangChain
+- Hugging Face (MiniLM embeddings)
+- FAISS
+- OpenAI API
+- Streamlit UI
+
+## 🚀 How to Run
+```bash
 pip install -r requirements.txt
 streamlit run rag_app.py
+
 
 ---
 
