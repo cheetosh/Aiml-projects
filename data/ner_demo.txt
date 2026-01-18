@@ -1,0 +1,2 @@
+John Miller, a data scientist at Siemens Energy in Bangalore, presented a paper on AI-based fault detection on 5th June 2024. 
+The research was funded by the Department of Science and Technology, Government of India.
